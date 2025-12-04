@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm a Accosiate Software Engineer 
+- 🔭 I'm a Associate Software Engineer 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinethjanitha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xdineth) 
